@@ -95,13 +95,13 @@ funcionalidade em outro lugar, em seguida, o primeiro passo vai ser
 *pluginifying* que parte do código, em seguida, a construção de um
 plug-in para sua implementação específica.
 
-![](media/imagem1.png)
+![](imagem1.png)
 
 **2) Informações da equipe de desenvolvimento**
 
-![](media/img4.png)
+![](img4.png)
 
-![](media/img5.png)
+![](img5.png)
 
 Canvas é um novo e open-source desenvolvido em 2011 pela equipe da
 Instructure Inc. A Instructure, adota um modelo simples. Ela possui a
@@ -118,7 +118,7 @@ antes de aceitar uma solicitação de desenvolvimento é necessário ler as
 informações de [Diretrizes para
 Codificação](https://github.com/instructure/canvas-lms/wiki/Coding-Guidelines).
 
-![](media/img2.png)
+![](img2.png)
 
 
 **3) Breve descrição da evolução do sistema: principais releases**
